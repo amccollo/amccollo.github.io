@@ -20,8 +20,10 @@ img: /img/welkinweb.jpg
 
 Buy This Book:
 
-[Ahsahta Press](http://ahsahtapress.boisestate.edu/books/mccollough1.htm)<br>
-[Small Press Distributors](http://www.spdbooks.org/Details.asp?BookID=0916272729)<br>
+[Ahsahta Press](http://ahsahtapress.boisestate.edu/books/mccollough1.htm)
+
+[Small Press Distributors](http://www.spdbooks.org/Details.asp?BookID=0916272729)
+
 [Amazon](http://www.amazon.com/Welkin-Poems-Sawtooth-Poetry-Prize/dp/0916272729/ref=cm_lmf_tit_5_rdsssl0/102-2626103-5907352)<br>
 
 
