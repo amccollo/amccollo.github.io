@@ -274,10 +274,8 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
-.img_row_simple{
-height: auto;
-width: 100%;
-overflow: hidden;
-box-sizing:border-box;
-padding: $img_spacing;
+.img_row_simple {
+ max-width: 100%;
+ margin: 0px auto;
+ border-radius: $border-radius;
 }
