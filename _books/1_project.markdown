@@ -16,21 +16,10 @@ img: /img/welkinweb.jpg
 
 “McCollough’s Welkin, a revival of those energies which flow between the gorgeous happenstance of Earth and the serene mandates of Heaven. These are poems of a powerfully expressed vertu. These are flowers that know the secrets of their names.” —Donald Revell
 
+Buy this book:
 
 [Ahsahta Press](https://ahsahtapress.org/product/aaron-mccollough-welkin/)
 
 [Small Press Distribution](http://www.spdbooks.org/Products/0916272729/welkin.aspx)
 
 [Amazon](https://www.amazon.com/Welkin-Poems-Sawtooth-Poetry-Prize/dp/0916272729/ref=cm_lmf_tit_5_rdsssl0/102-2626103-5907352)
-
-Buy This Book:
-
-[Ahsahta Press](http://ahsahtapress.boisestate.edu/books/mccollough1.htm)
-
-[Small Press Distribution](http://www.spdbooks.org/Details.asp?BookID=0916272729)
-
-[Amazon](http://www.amazon.com/Welkin-Poems-Sawtooth-Poetry-Prize/dp/0916272729/ref=cm_lmf_tit_5_rdsssl0/102-2626103-5907352)
-
-
-
-
