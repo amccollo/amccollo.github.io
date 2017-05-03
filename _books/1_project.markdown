@@ -21,7 +21,7 @@ img: /img/welkinweb.jpg
 
 [Small Press Distribution](http://www.spdbooks.org/Products/0916272729/welkin.aspx)
 
-[Amazon]()
+[Amazon](https://www.amazon.com/Welkin-Poems-Sawtooth-Poetry-Prize/dp/0916272729/ref=cm_lmf_tit_5_rdsssl0/102-2626103-5907352)
 
 Buy This Book:
 
