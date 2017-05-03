@@ -6,7 +6,7 @@ img: /img/welkinweb.jpg
 ---
 
 
-<img class="simple" src="{{ site.baseurl }}/img/welkinweb.jpg" alt="" title="welkin cover image"/>
+<img class="simple img" src="{{ site.baseurl }}/img/welkinweb.jpg" alt="" title="welkin cover image"/>
 
 
 <div class="img_row">
