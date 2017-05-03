@@ -2,6 +2,7 @@
 layout: page
 title: books
 permalink: /books/
+description: A list of published books by Aaron McCollough.
 ---
 
 {% for project in site.books %}
