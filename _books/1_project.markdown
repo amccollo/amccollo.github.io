@@ -5,6 +5,9 @@ description: a project with a background image
 img: /img/welkinweb.jpg
 ---
 
+<img src="{{ site.baseurl }}/img/welkinweb.jpg" alt="" title="welkin cover image"/>
+
+
 <div class="img_row">
   <img class="col three" src="{{ site.baseurl }}/img/welkinweb.jpg" alt="" title="welkin cover image"/>
 </div>
