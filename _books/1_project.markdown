@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project
+title: Welkin (Ahsahta Press, 2002)
 description: a project with a background image
 img: /img/welkinweb.jpg
 ---
