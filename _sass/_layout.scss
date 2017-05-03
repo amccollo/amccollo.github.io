@@ -276,4 +276,6 @@ font-size: $caption_font_size;
 }
 .simple_img{
 border: 1px solid rgba(0, 0, 0, 0.3);
+max-width: 100%;
+height: auto;
 }
