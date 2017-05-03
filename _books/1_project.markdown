@@ -14,6 +14,14 @@ img: /img/welkinweb.jpg
 <br>
 
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+“Aaron McCollough has reclaimed (that is, radically reclaimed) a certain ancientness of praise and quest, credence and address, for our fractured present. The resulting poems resonate with a singular music, urgency, and substance.”—Michael Palmer
+
+“McCollough’s Welkin, a revival of those energies which flow between the gorgeous happenstance of Earth and the serene mandates of Heaven. These are poems of a powerfully expressed vertu. These are flowers that know the secrets of their names.” —Donald Revell
+
+Buy This Book:
+
+[Ahsahta Press](http://ahsahtapress.boisestate.edu/books/mccollough1.htm)
+[Small Press Distributors](http://www.spdbooks.org/Details.asp?BookID=0916272729)
+[Amazon](http://www.amazon.com/Welkin-Poems-Sawtooth-Poetry-Prize/dp/0916272729/ref=cm_lmf_tit_5_rdsssl0/102-2626103-5907352)
 
 
