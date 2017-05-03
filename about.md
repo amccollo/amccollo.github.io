@@ -13,7 +13,7 @@ Aaron McCollough was raised in Tennessee. He currently works as a writer in Wash
 <br/ >
  
 
-Please direct all correspondence to: amccollo71@gmail.com
+
 <br/>
 <hr/>
 <br/>
@@ -26,6 +26,5 @@ Please direct all correspondence to: amccollo71@gmail.com
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
+Please direct all correspondence to: amccollo71@gmail.com</div>
 
