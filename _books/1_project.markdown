@@ -7,6 +7,7 @@ img: /img/welkinweb.jpg
 
 <div class="img_row">
   <img class="col three" src="{{ site.baseurl }}/img/welkinweb.jpg" alt="" title="welkin cover image"/>
+</div>
 
 <div class="col three caption">
 	This image can also have a caption. It's like magic. 
