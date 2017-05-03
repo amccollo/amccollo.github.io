@@ -19,7 +19,7 @@ img: /img/welkinweb.jpg
 
 [Ahsahta Press](https://ahsahtapress.org/product/aaron-mccollough-welkin/)
 
-[Small Press Distribution]()
+[Small Press Distribution](http://www.spdbooks.org/Products/0916272729/welkin.aspx)
 
 [Amazon]()
 
