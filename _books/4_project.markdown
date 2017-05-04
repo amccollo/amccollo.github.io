@@ -1,14 +1,14 @@
 ---
 layout: post
 title: No Grave...
-description: (Ahsahta Press, 2012)
+description: (Ahsahta Press, 2011)
 img: /img/nograve.jpg
 ---
 
 
 <img class="simple_img" src="{{ site.baseurl }}/img/nograve.jpg" alt="" title="no grave can hold my body down cover image"/>
 <div class="col three caption">
-	<em>No Grave Can Hold My Body Down</em>. Ahsahta Press, Boise, ID 2012. 
+	<em>No Grave Can Hold My Body Down</em>. Ahsahta Press, Boise, ID 2011. 
 </div>
 
 
