@@ -1,0 +1,8 @@
+---
+layout: post
+title:  a new site
+date:   2017-05-04 11:59:16
+description: using github & jekyll
+---
+After a few years of using the highly porous/hackable wordpress platform for hosting my personal website, I've decided to up my game a little bit and put togeher a github-hosted jekyll site. This is it. I still need to tinker with some things, but the basic structure is in place, and I've moved all of the content related to my books over (under the "books" link in the navigation bar above).
+
