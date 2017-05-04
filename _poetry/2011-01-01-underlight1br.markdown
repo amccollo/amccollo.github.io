@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Underlight' in Boston Review
+title: Underlight in Boston Review
 description: a project that redirects to another website
 img:
 redirect: https://bostonreview.net/mccollough-underlight-1.php
