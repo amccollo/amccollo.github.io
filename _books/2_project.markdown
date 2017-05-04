@@ -8,7 +8,7 @@ img: /img/doublevenusweb.jpg
 
 <img class="simple_img" src="{{ site.baseurl }}/img/doublevenusweb.jpg" alt="" title="double venus cover image"/>
 <div class="col three caption">
-	<em>Welkin</em>. Salt Publishing, Cambridge, UK 2003. 
+	<em>Double Venus</em>. Salt Publishing, Cambridge, UK 2003. 
 </div>
 
 
@@ -25,4 +25,5 @@ Buy this book:
 Reviews of this book:
 
 [Stan Mir in Free Verse](https://english.chass.ncsu.edu/freeverse/Archives/Winter_2004/reviews/S_Mir_A_McCollough.html)
+
 [Kevin McGowin in Eclectica](http://www.eclectica.org/v8n2/mcgowin_mccollough.html)
