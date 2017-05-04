@@ -8,7 +8,7 @@ img: /img/littleease.jpg
 
 <img class="simple_img" src="{{ site.baseurl }}/img/littleease.jpg" alt="" title="little ease cover image"/>
 <div class="col three caption">
-	<em>Welkin</em>. Ahsahta Press, Boise, ID 2006. 
+	<em>Little Ease</em>. Ahsahta Press, Boise, ID 2006. 
 </div>
 
 
