@@ -1,0 +1,95 @@
+/*
+ * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+ *
+ * CSS for making a resume with pandoc. Inspired by moderncv.
+ *
+ * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+ * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ */
+
+/* Whole document */
+body {
+    font-family: Optima, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 800px;
+    margin: auto;
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+}
+
+/*
+.title {
+    display: none;
+}
+*/
+
+/* Title of the resume */
+h1 {
+    font-size: 55px;
+    color: #77838e;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Titles of categories */
+h2 {
+    font-size: 25px;
+    color: black;
+    text-align:left;
+    margin-bottom:1px;
+}
+
+h3 {
+    font-size: 20px;
+    color: #82E0DC;
+    text-align:left;
+    margin-bottom:1px;
+
+}
+
+h4 {
+    font-size: 18px;
+    color: #000;
+    text-align:left;
+    margin-bottom:1px;
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 17%;
+    font-weight: bold;
+}
+dd {
+    margin-left: 17%;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+ul { 
+    display: block;
+    list-style-type: disc;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+
+
+
+/* Horizontal separators */
+hr {
+    style="visibility:hidden;"
+    ;
+}
