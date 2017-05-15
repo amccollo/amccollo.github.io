@@ -28,5 +28,8 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+  cv:
+    ouput: true
+    permalink: /cv/:path/
 
 
