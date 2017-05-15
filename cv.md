@@ -14,7 +14,7 @@ description: Aaron McCollough's CV
   <meta name="generator" content="pandoc" />
   <title></title>
   
-  <link rel="stylesheet" href="style2.css" type="text/css" />
+  <link rel="stylesheet" href="/css/style2.css" type="text/css" />
 </head>
 <body>
 <h1 id="aaron-mccollough">AARON McCOLLOUGH</h1>
