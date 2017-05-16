@@ -87,9 +87,9 @@ blockquote {
 /* Links */
 
 a {
-    background-color: #f44336;
+    background-color: #82E0DC;
     color: white;
-    padding: 14px 25px;
+    padding: 7px 12.5px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
@@ -97,9 +97,9 @@ a {
 
 
 article a:link, a:visited {
-    background-color: #f44336;
+    background-color: #82E0DC;
     color: white;
-    padding: 14px 25px;
+    padding: 7px 12.5px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
