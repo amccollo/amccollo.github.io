@@ -6,6 +6,8 @@ permalink: /cv/
 
 ---
 
+[Home](aaronmccollough.com)
+
 # AARON McCOLLOUGH
 
 > 2515 K Street, NW Apt 211, Washington, DC 20037 <br>
