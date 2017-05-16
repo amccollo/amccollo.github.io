@@ -87,21 +87,20 @@ blockquote {
 /* Links */
 
 a {
-    color: $blue;
+    color: #77838e;
     text-decoration: none;
-    /*
+  
     &:visited {
-        color: darken($brand-color, 15%); 
+        color: #77838e;
     }
-    */
     &:hover {
-        color: $theme-color;
+        color: #77838e;
         text-decoration: none;
     }
 }
 
 article a {
-    color: $theme-color;
+    color: #77838e;
     font-weight: 100;
 
     &:hover {
