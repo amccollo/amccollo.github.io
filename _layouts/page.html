@@ -3,10 +3,14 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <h5 class="post-description">{{ page.description }}</h5>
-  </header>
+  {% if page.title == "cv" %}
+   <!-- don't load page title on cv -->
+  {% else %}
+   <header class="post-header">
+     <h1 class="post-title">{{ page.title }}</h1>
+     <h5 class="post-description">{{ page.description }}</h5>
+   </header>
+{% endif %}
 
   <article class="post-content">
     {{ content }}
