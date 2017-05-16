@@ -86,7 +86,19 @@ blockquote {
 
 /* Links */
 
-
+a {
+    color: $blue;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    }
+}
 
 /* Horizontal separators */
 hr {
