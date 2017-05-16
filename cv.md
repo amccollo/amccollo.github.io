@@ -6,7 +6,7 @@ permalink: /cv/
 
 ---
 
-[Home](http://aaronmccollough.com)
+<a href="http://aaronmccollough.com">About</a> <a href="#">PDF Version</a>
 
 # AARON McCOLLOUGH
 
