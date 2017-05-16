@@ -87,20 +87,20 @@ blockquote {
 /* Links */
 
 a {
-    color: #82E0DC;
+    color: #2698BA;
     text-decoration: none;
   
     &:visited {
-        color: #77838e;
+        color: #2698BA;
     }
     &:hover {
-        color: #77838e;
+        color: #2698BA;
         text-decoration: none;
     }
 }
 
 article a {
-    color: #77838e;
+    color: #2698BA;
     font-weight: 100;
 
     &:hover {
