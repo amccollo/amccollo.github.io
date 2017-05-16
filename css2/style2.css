@@ -87,17 +87,14 @@ blockquote {
 /* Links */
 
 a {
-    color: #2698BA;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
     text-decoration: none;
-  
-    &:visited {
-        color: #2698BA;
+    display: inline-block;
     }
-    &:hover {
-        color: #2698BA;
-        text-decoration: none;
-    }
-}
+
 
 article a:link, a:visited {
     background-color: #f44336;
@@ -108,7 +105,7 @@ article a:link, a:visited {
     display: inline-block;
 }
 
-}
+
 
 /* Horizontal separators */
 hr {
