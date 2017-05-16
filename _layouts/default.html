@@ -4,9 +4,21 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
+{% if page.title == "cv" %}
+   <!-- don't load header on cv -->
+ {% else %}
+  {% include header.html %}
+{% endif %}
+<div class="page-content">
+<div class="wrapper">
+{{ content }}
+</div>
+</div>
+{% if page.title == "cv" %}
+  <!-- don't load footer on cv -->
+{% else %}
+  {% include footer.html %}
+ {% endif %}
 
     <div class="page-content">
       <div class="wrapper">
