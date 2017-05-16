@@ -89,7 +89,7 @@ blockquote {
 a {
     background-color: #2698BA
     color: white;
-    padding: 7px 12.5px;
+    padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
@@ -99,7 +99,7 @@ a {
 article a:link, a:visited {
     background-color: #2698BA
     color: white;
-    padding: 7px 12.5px;
+    padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
