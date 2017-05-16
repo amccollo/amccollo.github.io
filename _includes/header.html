@@ -9,13 +9,10 @@
         <!-- {{ site.title }} instead of blog -->
         <a class="page-link" href="{{ site.baseurl }}/">about</a>
 
-         {% for page in site.pages %}      
-         
-        {% if page.title == "cv" %}
-        {% break %}
-        {% elseif page.title %}
+        {% for page in site.pages %}      
+        {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
+        {% endif %}
         {% endfor %}
 
  
