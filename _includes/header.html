@@ -9,8 +9,10 @@
         <a class="page-link" href="{{ site.baseurl }}/">about</a>
 
         {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% if page.title == "cv" %}
+            
+          {% else %}
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
           {% endif %}
         {% endfor %}
 
