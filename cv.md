@@ -10,7 +10,7 @@ permalink: /cv/
 
 # AARON McCOLLOUGH
 
-> 2515 K Street, NW Apt 211, Washington, DC 20037 <br>
+> 1800 R Street, NW Apt 208, Washington, DC 20009 <br>
 > 734-255-1083 | amccollo71@gmail.com
 
 
@@ -21,6 +21,7 @@ permalink: /cv/
 * Experienced editor (including copy editing, developmental editing, and scholarly editing)
 * Experienced writer (including persuasive copy written across varied genres and formats for diverse audiences with specialized goals) 
 * Experienced project manager (including work with multiple stakeholders inside and outside organization) 
+* Significant, proven experience as a member of a team and a technical lead; positive interpersonal skills and a customer-service orientation, particularly with clients from a wide variety of cultures
 
 ## Education 
 
@@ -32,15 +33,33 @@ permalink: /cv/
 
 ## Professional Work Experience
 
+### Senior QA Specialist
+PalTech, Inc., Foreign Service Institute’s (FSI) Instructional Support Division <br>
+Arlington, VA.  June 2017 – present
+
+The Instructional Support Division in the Department of State's Foreign Service Institute develops and delivers instructional design and technology-based training tools, including eLearning and multimedia courses and products
+
+As the Contract Technical Lead for Quality Assurance, my work focuses on the following tasks and roles:
+
+* Guide team of contractors in delivering QA service following industry standard and USG web development policies and standards
+* Directly support government client through consistently documenting, tracking and reporting project status and portfolio development
+* Manage maintenance portfolio (tracking issues reported, following up with developers and PMs on solutions, going back to the Help Desk for more information, and sometimes directly contacting the student for more details) 
+* Review and edit storyboards, providing written feedback to instructional designer and client. (Highly skilled in detail-oriented documentation, with significant abilities in communicating with Subject Matter Experts and programmers in tactful manner)
+* Identify, analyze, troubleshoot, verify, and submit software defects following established QA processes and procedures through Gemini software
+* Interact with HelpDesk personnel and protocols to identify and resolve courseware issues
+* Test eLearning software for multiple browser compliancy on a variety of browsers and multiple operating systems
+* Collaborate with a learning management system team to ensure that all courses and products are SCORM and 508 compliant and work optimally in the learning management system as well as other web-based platforms
+* Collaborate with a learning management system team to acesss and review courses and surveys in a production environment
+
 ### Technical Writer IV
 PalTech, Inc., Foreign Service Institute’s (FSI) Instructional Support Division <br>
-Arlington, VA.  October 2016 – present
+Arlington, VA.  October 2016 – May 2017
 
-* Serving as dedicated technical writer for Diplomatic Mastery blended learning pilot
-* Working individually and in teams of instructional designers, graphic designers, developers, and subject matter experts to create course materials, document system requirements, craft marketing copy and internal reports
-* Serving as SharePoint administrator for all division sites
-* Creating and populating new sites, managing permissions, developing automated workflows for improving organization and intra-office processes
-* Providing quality assurance and copy editing for FSI-developed eLearning instruction modules
+* Serve as dedicated technical writer for Diplomatic Mastery blended learning pilot
+* Work individually and in teams of instructional designers, graphic designers, developers, and subject matter experts to create course materials, document system requirements, craft marketing copy and internal reports
+* Serve as SharePoint administrator for all division sites
+* Create and populate new sites, manage permissions, develop automated workflows for improving organization and intra-office processes
+* Provide quality assurance and copy editing for FSI-developed eLearning instruction modules
 
 ### Head, Scholarly Communication and Publishing Unit
 University of Illinois at Urbana-Champaign, University Library <br>
@@ -134,6 +153,6 @@ September 1998 - May 2009
 ## Software & Tool Experience
 
 * Microsoft suite: SharePoint (including Designer), Word, Excel, Visio, PowerPoint, InfoPath
-* Project Management/Collaboration Tools: Atlassian suite, Trello, AirTable, slack, Google Apps
+* Project Management/Collaboration Tools: Atlassian suite, Gemini, Trello, AirTable, slack, Google Apps
 * CMS: Jekyll/Github Pages, WordPress, Drupal
 * Code: HTML, CSS, Markdown
