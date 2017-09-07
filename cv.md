@@ -55,11 +55,11 @@ As the Contract Technical Lead for Quality Assurance, my work focuses on the fol
 PalTech, Inc., Foreign Service Institute’s (FSI) Instructional Support Division <br>
 Arlington, VA.  October 2016 – May 2017
 
-* Serve as dedicated technical writer for Diplomatic Mastery blended learning pilot
-* Work individually and in teams of instructional designers, graphic designers, developers, and subject matter experts to create course materials, document system requirements, craft marketing copy and internal reports
-* Serve as SharePoint administrator for all division sites
-* Create and populate new sites, manage permissions, develop automated workflows for improving organization and intra-office processes
-* Provide quality assurance and copy editing for FSI-developed eLearning instruction modules
+* Served as dedicated technical writer for Diplomatic Mastery blended learning pilot
+* Worked individually and in teams of instructional designers, graphic designers, developers, and subject matter experts to create course materials, document system requirements, craft marketing copy and internal reports
+* Served as SharePoint administrator for all division sites
+* Created and populated new sites, managed permissions, developed automated workflows for improving organization and intra-office processes
+* Provided quality assurance and copy editing for FSI-developed eLearning instruction modules
 
 ### Head, Scholarly Communication and Publishing Unit
 University of Illinois at Urbana-Champaign, University Library <br>
