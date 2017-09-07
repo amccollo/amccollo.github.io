@@ -1,3 +1,13 @@
+---
+
+layout: page
+title: cv
+permalink: /cv/
+
+---
+
+<a href="http://aaronmccollough.com">about</a>  <a href="http://aaronmccollough.com/CVfolder/cv.pdf">pdf version</a>
+
 # AARON McCOLLOUGH
 
 > 1800 R Street, NW Apt 208, Washington, DC 20009 <br>
