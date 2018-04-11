@@ -33,9 +33,15 @@ permalink: /cv/
 
 ## Professional Work Experience
 
+### Scholarly Communication and Open Access Publishing Lead 
+George Mason University, Fenwick Library <br>
+Fairfax, VA.  February 2018 – present
+
+Provides leadership, education, and compliance assistance on copyright and fair use issues, administers and promotes the open access publishing fund, promotes awareness of and assists in the development of open educational resources, and provides editorial assistance to the George Mason University Press.
+
 ### Senior QA Specialist
 PalTech, Inc., Foreign Service Institute’s (FSI) Instructional Support Division <br>
-Arlington, VA.  June 2017 – present
+Arlington, VA.  June 2017 – February 2018
 
 The Instructional Support Division in the Department of State's Foreign Service Institute develops and delivers instructional design and technology-based training tools, including eLearning and multimedia courses and products
 
