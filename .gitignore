@@ -24,3 +24,7 @@ pkg/
 site/_site/
 test/dest
 tmp/*
+_site/about/index.html
+_site/css/main.css
+_site/feed.xml
+_site/index.html
