@@ -29,7 +29,7 @@ permalink: /cv/
 * M.A., English Literature, The University of Michigan, 2002
 * M.F.A., Creative Writing, The University of Iowa Writers’ Workshop, 2001
 * M.A., English, North Carolina State University, 1998
-* B.A., English, magna cum laude, The University of the South, 1994
+* B.A., English, magna cum laude, The University of the South, 1994.
 
 ## Professional Work Experience
 
